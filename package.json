@@ -10,7 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@invictus.codes/nuxt-vuetify": "^0.3.0",
     "@nuxt/devtools": "latest",
-    "nuxt": "^3.7.4"
-  }
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "nuxt": "^3.7.4",
+    "sass": "^1.68.0"
+  },
+  "dependencies": {}
 }
